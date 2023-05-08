@@ -5,19 +5,19 @@ Desde que tengo memoria, siempre me ha llamado la atención todo lo relacionado 
 ## 📌¿Cuál es mi objetivo actual?
 En este momento, estoy en busca de nuevas oportunidades laborales que me permitan seguir mejorando mis habilidades técnicas y blandas. Estoy dispuesto a esforzarme al máximo para lograr los mejores resultados.
 ## 📌Tech Skills
-◻__Lenguajes__ » JavaScript, HTML5, CSS3.
+◻Lenguajes » JavaScript, HTML5, CSS3.
 <br>
-◻__Frontend__ » React, Redux, Styled-Component, CSS Modules.
+◻Frontend » React, Redux, Styled-Component, CSS Modules.
 <br>
-◻__Backend__ » NodeJS, ExpressJS, Sequelize
+◻Backend » NodeJS, ExpressJS, Sequelize
 <br>
-◻__Base de Datos__ » MySQL/Workbench, PostgreSQL.
+◻Base de Datos » MySQL/Workbench, PostgreSQL.
 <br>
-◻__Control de Versiones__ » Git, GitHub.
+◻Control de Versiones » Git, GitHub.
 <br>
-◻__Diseño__ » Material UI, UI/UX Developer, Figma.
+◻Diseño » Material UI, UI/UX Developer, Figma.
 
 ## 📌¿Cómo contactarme?
 <img src="https://img.icons8.com/color/48/000000/gmail.png" width="15px"> facundorecabarren10@gmail.com
 <br>
-<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="15px"> https://www.linkedin.com/in/facundorecabarren/
+<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="18px"> https://www.linkedin.com/in/facundorecabarren/
