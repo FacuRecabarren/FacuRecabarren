@@ -57,7 +57,7 @@ En este momento, estoy en busca de nuevas oportunidades laborales que me permita
 <p align="center"> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://res.cloudinary.com/nacho-morales/image/upload/v1683592962/nextjs-removebg-preview_1_lqlbyg.png" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 <hr>
 
-## 📫 *__¿Cómo contactarme?__*
+## 📩 *__¿Cómo contactarme?__*
 <p align="center">
     <a href="https://www.linkedin.com/in/facundorecabarren/" ><img src="https://cdn.icon-icons.com/icons2/99/PNG/512/linkedin_socialnetwork_17441.png" alt="Linkedin Logo" height="70" >
     <a href="mailto:facundorecabarren10@gmail.com" ><img src="https://cdn.icon-icons.com/icons2/2631/PNG/512/gmail_new_logo_icon_159149.png" alt="Gmail Logo" height="80" >
