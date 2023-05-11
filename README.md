@@ -2,11 +2,11 @@
 ## 👨🏻‍💻 *__Un poco sobre mi__*
 Tengo 21 años y me apasiona todo lo relacionado con la tecnología. Actualmente estoy dando mis primeros pasos como __desarrollador Full Stack__ y, para ampliar mis habilidades y conocimientos, estoy cursando la carrera de __"Certified Tech Developer"__ en Digital House.
 Desde que tengo memoria, siempre me ha llamado la atención todo lo relacionado con las computadoras, los programas y los videojuegos. Con el tiempo, empecé a preguntarme cómo se hacían todas esas aplicaciones y videojuegos, lo que me llevó a descubrir el mundo de la programación y dar mis primeros pasos de forma autodidacta.
-<hr>
+
 
 ## 🚀 *__¿Cuál es mi objetivo actual?__*
 En este momento, estoy en busca de nuevas oportunidades laborales que me permitan seguir mejorando mis habilidades técnicas y blandas. Estoy dispuesto a esforzarme al máximo para lograr los mejores resultados.
-<hr>
+
 
 ## 💻 *__Tech Skills__*
 ◻**Lenguajes** » JavaScript, Java.
@@ -41,7 +41,7 @@ En este momento, estoy en busca de nuevas oportunidades laborales que me permita
     <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a>
 </p>
 
-<hr>
+
 
 ## 📚 *__¿Qué estoy aprendiendo?__*
 ◻**Next.JS**
@@ -55,7 +55,7 @@ En este momento, estoy en busca de nuevas oportunidades laborales que me permita
 ◻**TypeScript**
 <br>
 <p align="center"> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://res.cloudinary.com/nacho-morales/image/upload/v1683592962/nextjs-removebg-preview_1_lqlbyg.png" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
-<hr>
+
 
 ## 📩 *__¿Cómo contactarme?__*
 <p align="center">
