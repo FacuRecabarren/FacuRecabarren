@@ -1,6 +1,6 @@
 # ¡Hola 👋🏽! Mi nombre es *__Facundo Recabarren__*
 ## 👨🏻‍💻 *__Un poco sobre mi__*
-Tengo 21 años y me apasiona todo lo relacionado con la tecnología. Actualmente estoy dando mis primeros pasos como __desarrollador Full Stack__ y, para ampliar mis habilidades y conocimientos, estoy cursando la carrera de __"Certified Tech Developer"__ en Digital House.
+Tengo 22 años y me apasiona todo lo relacionado con la tecnología. Actualmente estoy dando mis primeros pasos como __desarrollador Full Stack__ y, para ampliar mis habilidades y conocimientos, estoy cursando la carrera de __"Certified Tech Developer"__ en Digital House.
 Desde que tengo memoria, siempre me ha llamado la atención todo lo relacionado con las computadoras, los programas y los videojuegos. Con el tiempo, empecé a preguntarme cómo se hacían todas esas aplicaciones y videojuegos, lo que me llevó a descubrir el mundo de la programación y dar mis primeros pasos de forma autodidacta.
 
 
